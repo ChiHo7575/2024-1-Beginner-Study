@@ -68,4 +68,7 @@ git checkout “<브랜치 이름>”
 
 git checkout -b “<브랜치 이름>”
 
+
+ git branch를 이용하면 누구나 한가지의 것을 이용해서 여러가지의 의견등을 각자 만들수 있다.?????
+
 https://github.com/ChiHo7575/2024-1-Beginner-Study/pull/2
